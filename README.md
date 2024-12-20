@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, me chamo Adrielly 👋
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com interesse em tecnologias de dados. Tenho habilidades em Python, SQL, .NET, VBA, VBScript e Batch. 🖥️
 
 <!--
 **ellymrt/ellymrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
